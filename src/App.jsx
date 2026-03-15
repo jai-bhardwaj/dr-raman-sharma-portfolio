@@ -1692,7 +1692,7 @@ export default function App() {
           <ReviewCarousel reviews={t.reviews.list} />
           <div style={{ textAlign: "center", marginTop: 40 }}>
             <a
-              href="https://maps.google.com/?cid=14873153408685504571"
+              href="https://www.google.com/maps/place/Dr.+Raman+Sharma+%7C+Best+Plastic+Surgeon+in+Delhi/@28.6384582,77.1895559,17z/data=!3m1!4b1!4m6!3m5!1s0x390d0377c398c601:0xce680e394e96f83b"
               target="_blank" rel="noopener noreferrer"
               style={{
                 fontSize: 14, color: "#0c4a3e", fontWeight: 600, textDecoration: "none",
@@ -1831,11 +1831,11 @@ export default function App() {
                   border: "1px solid #eee", boxShadow: "0 4px 20px rgba(0,0,0,0.06)",
                 }}>
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.5!2d77.178!3d28.646!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d029f6000001%3A0xce84ff2d7e4b103b!2sSir%20Ganga%20Ram%20Hospital!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3501.0!2d77.186981!3d28.6384582!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d0377c398c601%3A0xce680e394e96f83b!2sDr.%20Raman%20Sharma%20%7C%20Best%20Plastic%20Surgeon%20in%20Delhi!5e0!3m2!1sen!2sin!4v1700000000000!5m2!1sen!2sin"
                     width="100%" height="100%" style={{ border: 0 }}
                     allowFullScreen="" loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                    title="Sir Ganga Ram Hospital Location"
+                    title="Dr. Raman Sharma Clinic Location"
                   />
                 </div>
               </div>
@@ -2041,7 +2041,7 @@ export default function App() {
               </a>
               {/* Google Maps */}
               <a
-                href="https://maps.google.com/?cid=14873153408685504571"
+                href="https://www.google.com/maps/place/Dr.+Raman+Sharma+%7C+Best+Plastic+Surgeon+in+Delhi/@28.6384582,77.1895559,17z/data=!3m1!4b1!4m6!3m5!1s0x390d0377c398c601:0xce680e394e96f83b"
                 target="_blank" rel="noopener noreferrer"
                 aria-label="Google Maps"
                 style={{
